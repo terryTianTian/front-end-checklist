@@ -15,11 +15,13 @@
 * [CSS选择器](http://www.ruanyifeng.com/blog/2009/03/css_selectors.html)
 * [The 30 CSS Selectors ](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [W3 Help](http://w3help.org/zh-cn/kb/)
-
+                                                                                                                                     
 ## Javascript
 * [Javascript思维导图](http://web.jobbole.com/76500/)
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 * [JavaScript 有多灵活？](http://www.ruanyifeng.com/blog/2015/02/flexible-javascript.html)
+* [microjs](http://microjs.com/#)
+* [mozilla](https://developer.mozilla.org/zh-CN/)
 
 ## Ajax
 * [XMLHttpRequest](http://www.w3.org/TR/XMLHttpRequest/#the-setrequestheader()-method)
@@ -51,6 +53,7 @@
 ## Mongodb
 
 ## GitHub
+* [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ## Hexo
 * [Hexo Docs](http://www.ituring.com.cn/article/199295)
@@ -58,3 +61,7 @@
 
 ## Markdown
 * [Markdown toturial](http://markdowntutorial.com/)
+* [http://www.markdown.cn/](http://www.markdown.cn/)
+
+## 兼容性
+
