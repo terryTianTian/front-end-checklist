@@ -54,7 +54,7 @@
 
 ## GitHub
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
+* [GIT-FORK项目后与原项目进行同步](http://www.cnblogs.com/dubuqingfeng/p/201503-git-fork-synchronized.html)
 ## Hexo
 * [Hexo Docs](http://www.ituring.com.cn/article/199295)
 * [Hexo API](https://hexo.io/zh-cn/api/)
